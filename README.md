@@ -9,7 +9,7 @@ This project analyzes 9 years of GDP data across African countries using Python,
 - Box plots, heatmaps, bar charts and line charts
 
 ## View the article
-👉 [Read on Medium](https://medium.com/your-post-link)
+👉 [Read on Medium]([https://medium.com/your-post-link](https://medium.com/@ehisvictor09/from-oil-to-opportunity-africas-economic-heavyweights-over-a-decade-aa87cf70da98))
 
 ## Tools Used
 - Python, Pandas, Matplotlib, Seaborn, Squarify
