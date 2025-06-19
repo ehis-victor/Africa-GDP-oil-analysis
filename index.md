@@ -706,7 +706,8 @@ plt.show()
 
 ```
 
-![png](output_13_0.png)
+![Top 5 countries GDP Trends 2015 - 2023](https://github.com/user-attachments/assets/21e996fd-9c41-4464-a0af-c2145792a428)
+
 
 ## BAR CHART (MOST RECENT YEAR GDP)
 
@@ -735,7 +736,7 @@ plt.show()
 
 ```
 
-![png](output_16_0.png)
+![Top 5 countries by 2023 GDP](https://github.com/user-attachments/assets/e33d10df-33dc-4b25-80f4-1b46bef25093)
 
 ## AREA PLOT (cummulative GDP progress)
 
@@ -759,7 +760,8 @@ plt.show()
 
     <Figure size 1000x600 with 0 Axes>
 
-![png](output_18_1.png)
+![Cummulative GDP progress 2014 - 2023](https://github.com/user-attachments/assets/0895f1a4-c5d5-4fe2-8533-831da68cf36a)
+
 
 ## HEATMAP (GDP intensity over time)
 
@@ -779,7 +781,8 @@ plt.show()
 
 ```
 
-![png](output_20_0.png)
+![Heatmap of GDP over time](https://github.com/user-attachments/assets/69083728-f8cf-4a7f-978a-57f401b19238)
+
 
 ## Boxplot: GDP Distribution (Variation Over 10 Years)
 
@@ -798,7 +801,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![png](output_22_0.png)
+![GDP Distribution (2015–2023) – Top 5 African Countries](https://github.com/user-attachments/assets/be9f339c-41bd-4ae1-bc86-89084bd7761d)
 
 ## QUESTION 2
 
@@ -1135,7 +1138,8 @@ plt.grid(axis='y')
 plt.show()
 ```
 
-![png](output_32_0.png)
+![Top oil producing countries in Africa (BPD)](https://github.com/user-attachments/assets/9f017c7d-f65b-4c9e-8c0d-68dc42c2bd75)
+
 
 ```python
 # Manually create the data
@@ -1232,7 +1236,8 @@ plt.grid(True)
 plt.show()
 ```
 
-![png](output_34_0.png)
+![Nigeria GDP vs Global Oil Prices (2015–2023)](https://github.com/user-attachments/assets/e201f52b-03f8-4d6e-8cad-694ceef25fab)
+
 
 ```python
 # Strip whitespace and make all country names lowercase for consistency
@@ -1436,10 +1441,15 @@ plt.grid(True)
 plt.show()
 ```
 
-![png](output_39_0.png)
+![GDP vs Oil Production in African Countries](https://github.com/user-attachments/assets/d1940a6d-8b72-4a34-a530-bcc98bafb433)
+
 
 ## Conclusion
 
 **📌 Africa's Economic Giants — 9 years in Review**
 
 Over the last 9 years, Africa has undergone significant economic shifts, with a few standout nations consistently leading the continent in terms of GDP. Our analysis, leveraging World Bank data from 2015 to 2023, reveals a clear pattern: economic leadership in Africa is both diverse in foundation and deeply influenced by resource management, industrial capacity, and geopolitical stability.
+
+---
+
+⬅️ [Back to Portfolio](https://github.com/ehis-victor) | 📂 [View on GitHub](https://github.com/ehis-victor/Africa-GDP-oil-analysis)
