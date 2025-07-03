@@ -1,0 +1,68 @@
+
+📄 summary.txt — Power BI Dashboard Summary
+Project Title: Africa's Economic & Energy Landscape
+By: Victor Ekikhalo
+Dashboard Type: Analytical Summary of GDP and Oil Production in African Countries (2015–2023)
+Tools Used: Python (for data sourcing and cleaning), Power BI (for dashboard visuals)
+
+🔹 1. Overview
+This Power BI dashboard provides a visual and data-driven exploration of economic growth (GDP) and energy output (oil production) across African nations over a 10-year period. It aims to uncover correlations, highlight leaders and outliers, and provide actionable insights into how oil production impacts economic performance.
+
+🔹 2. Dashboard Sections
+
+🏠 Home Page (Welcome View)
+- Title banner with the project name and author
+- Navigation headers: Home, Dashboard, Insights
+
+📊 Total GDP Snapshot
+- Total GDP (All Years, All Countries): $23.17 trillion
+- Average GDP (Per Country): $49.50 billion
+- Countries Covered: 55
+> This section sets the scene for the scale of Africa’s economic data and introduces a comparative layout of GDP across nations.
+
+📈 GDP by Country & Year
+- Visuals:
+  - Bar charts comparing GDP per country
+  - Line/area charts showing GDP evolution across years (2015–2023)
+- Top Performers: Nigeria, South Africa, Egypt, Algeria, Morocco
+- Interactive Filters: Year and Country selection slicers for dynamic analysis
+> Enables users to analyze GDP trends per country and spot patterns of growth, stagnation, or fluctuation.
+
+🛢️ Oil Production (BPD) by Country
+- Visuals:
+  - Bar chart of daily oil production (in barrels)
+- Top Producers:
+  - Nigeria – 13.59M bpd
+  - Libya
+  - Angola
+  - Algeria
+  - Others: Equatorial Guinea, Gabon, Ghana, Niger, Egypt, etc.
+- Insight Text Block:
+  - Nigeria produced 13.59M bpd, which is 6,695% higher than South Sudan (200k bpd)
+  - Nigeria made up 23.89% of total oil production
+> Focuses on oil as a critical resource and economic driver in Africa.
+
+🔗 GDP vs Oil Production Relationship
+- Visual: Combo chart mapping GDP vs Oil Production over time
+- Purpose: To explore correlation between resource output and GDP growth
+- Finding: While oil-rich nations often have higher GDPs, the correlation is not linear — suggesting influence of diversification, policy, and global markets.
+
+💡 Key Dashboard Insights Page
+- Highlights:
+  - Total oil-producing countries analyzed: 13
+  - Nigeria dominates both GDP and oil output in several years
+  - Some oil-producing countries do not show equivalent GDP size
+- Summary metrics presented with slicers for year and country for interactive drill-down
+
+🔹 3. Filters & Interactivity
+- Year Slicer: Select GDP and production metrics by year (2015–2023)
+- Country Slicer: Filter by country for targeted exploration
+- Dynamic visuals update in real-time when selections are changed
+
+🔹 4. Observations & Takeaways
+- GDP Leaders: Nigeria and South Africa maintained consistent GDP dominance.
+- Oil Dependency: Not all high oil producers saw proportional economic growth, hinting at issues like governance, value chain weaknesses, or lack of diversification.
+- Data Gaps: Some countries may have incomplete records, which may affect trend interpretations.
+
+🔹 5. Conclusion
+This dashboard tells a layered story: Africa is rich in resources, but economic prosperity depends on more than production volume. The analysis provides policymakers, analysts, and data enthusiasts a snapshot of the continent's performance through a lens of energy and economics.
